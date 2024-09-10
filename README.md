@@ -1,3 +1,5 @@
+![soft](https://capsule-render.vercel.app/api?type=soft&color=auto&text=Marvin%20.%20Seo%20&fontSize=40&animation=twinkling)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+instructor+marvin;I+am+conducting+web+development+lectures+;Quick+fox+jand+conducting+projects+as+freelancersumps+nightly+above+wizard)](https://git.io/typing-svg)
 <details>
 <summary>
