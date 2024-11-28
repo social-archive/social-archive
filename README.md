@@ -36,9 +36,8 @@
   [PHP] PMS솔루션(CodeIgnitor), ubuntu서버운영(시스템 관제)  
   [JAVA, kotlin] Spring 기반 REST_API  
   [JavaScript] Express 기반 REST_API, React 기반 웹 프로젝트 등의 실무에 참여한 경험이 있습니다.
-</details>
 
-
+  
 <div align=center>
 
 ## :rocket: Skills
@@ -319,6 +318,9 @@
 </details>
 	
 </div>
+</details>
+
+
 
 
 
