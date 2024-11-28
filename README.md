@@ -108,7 +108,7 @@
 </div>
 
 
-<details open>
+<details>
   <summary>스포츠 토토 솔루션</summary>
   <ul>
     <li>대용량 스포츠데이터 사용, node기반 배팅, 정산 및 어드민, 클라이언트 풀스택 개발</li>
@@ -126,7 +126,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>블록체인 예술품 NFT 경매사이트</summary>
   <ul>
     <li>경매 및 NFT거래 FOMO사이트를 시뮬레이션 한 사이트 입니다.</li>
@@ -141,7 +141,7 @@
 
   </ul>
 </details>
-<details open>
+<details>
   <summary>이상형월드컵, 밸런스게임 사이트</summary>
   <ul>
     <li>Tinder게임을 접목한 반응형 웹게임 사이트입니다</li>
@@ -171,7 +171,7 @@
 
   </ul>
 </details>
-<details open>
+<details>
   <summary>춤동호회 웹페이지 (PHP)</summary>
   <ul>
     <li>춤동호회 연습실 일정관리와 회원커뮤니티를 위한 웹페이지입니다.</li>
@@ -195,7 +195,7 @@
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/950)</li>
   </ul>
 </details>
-<details open>
+<details>
   <summary>낚시 게임 (콘솔)</summary>
   <ul>
     <li>인원 : 개인</li>
@@ -207,7 +207,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>기술 컨퍼런스</summary>
   <ul>
     <li>인원 : 개인</li>
@@ -226,7 +226,7 @@
 </div>
 
 
-<details open>
+<details>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
   <ul>
     <code>코딩 과외학원 아지트 대표</code> [2023.04 ~ 2024.02]
@@ -284,7 +284,7 @@
 
 </div>
 
-<details open>
+<details>
   <summary>:green_book: <b>CS Learning</b></summary>
   <ul>
     <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
@@ -292,7 +292,7 @@
   </ul>
 </details>
 
-<details open>
+<details>
   <summary>:mortar_board: <b>Education</b></summary>
   <ul>
         <li><a href="https://www.hycu.ac.kr/user/maSnEx/goMain/30058/index.do">한양사이버대학교 응용소프트웨어공학과 </a> [ 2021 ~ 학 ] </li>
@@ -309,7 +309,7 @@
 
 </div>
 
-<details open>
+<details>
   <summary><b>자격증</b></summary>
   <ul>
     <li>정보처리기사 [ 2021. 11 ]</li>
