@@ -38,7 +38,7 @@
   [JavaScript] Express 기반 REST_API, React 기반 웹 프로젝트 등의 실무에 참여한 경험이 있습니다.
 
   
-<div align=center>
+<div>
 
 ## :rocket: Skills
 
@@ -100,7 +100,7 @@
   </ul>
 </details>
 
-<div align=center>
+<div>
 
 ## :mag_right: Project
 
@@ -155,7 +155,7 @@
     
   </ul>
 </details>
-<details open>
+<details >
   <summary>수족관 웹게임(Canvas)</summary>
   <ul>
     <li>Canvas 및 Class 를 이용한 OOP기반 자바스크립트 웹게임입니다.</li>
@@ -181,7 +181,7 @@
     <li>[프로젝트 소개](https://cafe.naver.com/teamnovaopen/1073)</li>
   </ul>
 </details>
-<details open>
+<details >
   <summary>맛집 어플 (안드로이드)</summary>
   <ul>
     <li>해시태그 기능을 도입한 맛집찾기 어플입니다.</li>
@@ -218,7 +218,7 @@
 
 
 
-<div align=center>
+<div>
 
 ## :dolphin: Career
 
@@ -268,7 +268,7 @@
   </ul>
   
 </details>
-<details open>
+<details >
   <summary>:airplane: <b>공군 부사관 [2012.03 ~ 2019.05]</b></summary>
   <ul>
     <li>공중감시 및 항공무기통제담당</li>
@@ -277,7 +277,7 @@
   </ul>
 </details>
 
-<div align=center>
+<div >
 
 ## :closed_book: Education
 
@@ -302,7 +302,7 @@
 
 
 
-<div align=center>
+<div >
 
 ## :triangular_ruler: Certificate
 
