@@ -1,13 +1,6 @@
 
 
 <div align=center>
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fafashs%2Fhit-counter&count_bg=black&title_bg=black&icon=instacart.svg&icon_color=%23E7E7E7&title=today+/+total&flat_square=false)](https://github.com/afashs)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logoColor=white&logo=Vimeo&link=https://afashs.github.io)](https://afashs.github.io)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.afshs@gmail.com)](mailto:dev.afashs@gmail.com)
-	
-</div>
-<div align=center>
 	
 ### I'm Marvin.seo, a software engineer.
 	Kakao Enterprise Co. Ltd. is in charge of developing Backend API of Coworking Tools
@@ -19,7 +12,7 @@
 #### 국민은행 주관 K-digital Training 과정 주 강사
 
 </div>
-<details >
+<details open>
   <summary><b>:paperclip: 포트폴리오</b></summary>
   
   javascript를 주력 언어로 사용하는 클라우드 생태계에 관심이 많은 웹 개발자입니다.  
