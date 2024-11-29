@@ -224,12 +224,19 @@
 
 </div>
 
-
+<details >
+  <summary>:airplane: <b>코딩강사 및 외주활동 [2023. 03 ~]</b></summary>
+<!--   <ul>
+    <li></li>
+  </ul> -->
+</details>
 <details>
   <summary>:computer: <b>소프트웨어 엔지니어 [2019.05 ~ ]</b></summary>
+<ul>
+    <li>코딩강사 및 외주활동 [2023. 03 ~]</li>
+  </ul>
   <ul>
     <code>코딩 과외학원 아지트 대표</code> [2023.04 ~ 2024.02]
-    <li>코딩강사 및 외주활동</li>
   </ul>
   <ul>
     <code>(주)카카오엔터프라이즈</code> [2022.01 ~ 2023.02]
