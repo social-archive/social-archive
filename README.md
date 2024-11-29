@@ -226,8 +226,8 @@
 
 <details >
   <summary>:airplane: <b>코딩강사 및 외주활동 [2023. 03 ~]</b></summary>
-<!--   <ul>
-    <li></li>
+<ul>
+    <li>소프트웨어 엔지니어 + 프리랜서 병행</li>
   </ul> -->
 </details>
 <details>
