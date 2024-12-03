@@ -323,7 +323,7 @@
 
 
 
-
+<!--
 ## :open_file_folder: GitHub Activity
 
 <div align=center>
@@ -335,7 +335,7 @@
 </p>
 	
 </div>
-
+-->
 ## :open_file_folder: certificate
 
 <p>
