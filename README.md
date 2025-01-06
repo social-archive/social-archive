@@ -9,20 +9,21 @@
 
 #### 코딩 과외 에이전시 <아지트 코딩학원> 대표
 
-#### 국민은행 주관 K-digital Training 과정 주 강사
+#### KB국민은행 IT 아카데미 풀스택 웹 개발자 양성과정 주 강사
+
+#### 프로그래머스 데브코스 클라우드 기반 프론트엔드 엔지니어링 FT 강사
 
 </div>
 <details open>
   <summary><b>:paperclip: 포트폴리오</b></summary>
   
-  javascript를 주력 언어로 사용하는 클라우드 생태계에 관심이 많은 웹 개발자입니다.  
-  최근 관심사는 프론트엔드 React, React Native입니다
+  javascript를 주력 언어로 사용하는 웹 개발자 / 강사 입니다.
+  최근 관심사는 ai 기반 프롬프트 엔지니어링을 이용한 웹개발입니다
   주로 백엔드 포지션으로 linux서버, mysql, rest api,  
   클러스터 관리 및 서버 devops, dataops를 주로 담당 하였으며. 
-  최근 하둡기반 데이터 엔지니어링 업무를 수행하고 있습니다  
-
-  현재는 spring 백엔드 및 하둡기반 airflow, spark를 사용한  
-  data engineering담당으로 카카오 워크 프로젝트에 참여하고 있으며  
+  하둡기반 데이터 엔지니어링 업무 수행
+  spring 백엔드 및 하둡기반 airflow, spark를 사용한  
+  data engineering 담당으로 카카오 워크 프로젝트에 참여한 경헙이 있습니다  
 
   [k8s] 클러스터 운영 및 단일 VM노드 구축 / 운영  
   [python] jupyterhub 및 데이터 엔지니어링 인프라 구축 및 운영  
