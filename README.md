@@ -288,7 +288,7 @@
   <summary>:green_book: <b>CS Learning</b></summary>
   <ul>
     <li><a href="https://www.codestates.com/">코드스테이츠 소프트웨어 엔지니어링 과정 26기 수료 </a> [ 2020.09 ~ 2021.05 ] </li>
-    <li><a href="https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%ED%95%AD%EA%B3%B5%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90">팀노바 5기 응용 1단계 중도포기 </a> [ 2019.05 ~ 2019.12 ]</li>
+    <li><a href="https://namu.wiki/w/%EA%B3%B5%EA%B5%B0%ED%95%AD%EA%B3%B5%EA%B3%BC%ED%95%99%EA%B3%A0%EB%93%B1%ED%95%99%EA%B5%90">팀노바 5기 응용 1단계 </a> [ 2019.05 ~ 2019.12 ]</li>
   </ul>
 </details>
 
