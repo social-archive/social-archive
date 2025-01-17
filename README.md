@@ -17,7 +17,7 @@
 <details open>
   <summary><b>:paperclip: 포트폴리오</b></summary>
   
-  javascript를 주력 언어로 사용하는 웹 개발자 / 강사 입니다.
+  java / javascript를 주력 언어로 사용하는 웹 개발자 / 강사 입니다.
   최근 관심사는 ai 기반 프롬프트 엔지니어링을 이용한 웹개발입니다
   주로 백엔드 포지션으로 linux서버, mysql, rest api,  
   클러스터 관리 및 서버 devops, dataops를 주로 담당 하였으며. 
