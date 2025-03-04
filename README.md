@@ -23,7 +23,7 @@
   클러스터 관리 및 서버 devops, dataops를 주로 담당 하였으며. 
   하둡기반 데이터 엔지니어링 업무 수행
   spring 백엔드 및 하둡기반 airflow, spark를 사용한  
-  data engineering 담당으로 카카오 워크 프로젝트에 참여한 경헙이 있습니다  
+  data engineering 담당으로 카카오 워크 프로젝트에 참여한 경험이 있습니다  
 
   [k8s] 클러스터 운영 및 단일 VM노드 구축 / 운영  
   [python] jupyterhub 및 데이터 엔지니어링 인프라 구축 및 운영  
