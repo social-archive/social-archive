@@ -17,6 +17,16 @@
 
 #### 프로그래머스 데브코스 클라우드 기반 프론트엔드 엔지니어링 FT 강사
 
+#### 유니티 개발업체 (http://siasoft.co.kr) 등 랜딩
+
+#### 카카오톡 챗봇 및 예약메시지 기능 개발
+<p>
+<img alt="afashs" width="32%" src="https://github.com/user-attachments/assets/c50c0e4c-8ba4-4eb3-b4ca-dea52ebe4d4d" />
+<img alt="afashs" width="32%" src="https://github.com/user-attachments/assets/0b14f86c-fe17-4a1c-8bfa-fdbe19895967" />
+</p>
+
+
+
 ## :open_file_folder: certificate
 
 <p>
