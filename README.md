@@ -5,6 +5,11 @@
 ### I'm Marvin.seo, a software engineer.
 	Kakao Enterprise Co. Ltd. is in charge of developing Backend API of Coworking Tools
 
+#### Java와 JavaScript를 기반으로 한 풀스택 웹 개발자 및 강사로,
+AI 기반 프롬프트 엔지니어링을 활용한 차세대 웹 개발 분야에 전문성을 확장하고 있습니다
+
+---
+
 #### (주)카카오엔터프라이즈 에서 카카오워크 백엔드 개발을 담당
 
 #### 코딩 과외 에이전시 <아지트 코딩학원> 대표
