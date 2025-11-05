@@ -1,13 +1,19 @@
 
 
 <div align=center>
-<img width="400" height="400" alt="프로필2" src="https://github.com/user-attachments/assets/ef7a3817-0538-4b42-8a37-270c32436bb1" />
-	
+<img width="300" height="300" alt="circle_profile" src="https://github.com/user-attachments/assets/7386a2d4-8f61-4829-a075-0b493271b7a8" />
+
 ### I'm Marvin.seo, a software engineer.
 	Kakao Enterprise Co. Ltd. is in charge of developing Backend API of Coworking Tools
 
 #### Java와 JavaScript를 기반으로 한 풀스택 웹 개발자 및 강사로,
 AI 기반 프롬프트 엔지니어링을 활용한 차세대 웹 개발 분야에 전문성을 확장하고 있습니다
+
+[소프트웨어 엔지니어]카카오 엔터프라이즈에서 백엔드 API를 개발하며 업무 시스템의 근본적인 효율화를 고민했습니다.  
+이 경험이 AI 자동화 프로세스를 가장 견고하게 설계하는 기반이 됩니다.  
+[AI 파일럿] 저는 GPT와 AI 툴을 활용하여 실무에서 가장 빠르고 정확한 성과를 도출하는 선행 사용자입니다.  
+검증된 노하우만을 선별하여 여러분에게 최적의 비행 경로를 제시합니다.  
+[전문 강사]KB국민은행 IT 아카데미와 구름에듀의 주강사로서, 복잡한 기술을 실무에 바로 적용 가능한 쉬운 지식으로 풀어내는 전달력을 갖추었습니다.  
 
 ---
 
@@ -15,9 +21,13 @@ AI 기반 프롬프트 엔지니어링을 활용한 차세대 웹 개발 분야�
 
 #### 코딩 과외 에이전시 <아지트 코딩학원> 대표
 
-#### IT 강의 에이전시 <소셜 아카이브> 대표
+#### IT 강의 및 컨설팅 에이전시 <소셜 아카이브> 대표
 
 #### 인프런 강의 <100가지 프롬프트로 배우는 AI 활용법> 강사
+https://inf.run/djkMv
+
+### 인프런 강의 이야기로 배우는 시리즈 강사
+https://inf.run/gpwFf
 
 #### KB국민은행 IT 아카데미 풀스택 웹 개발자 양성과정 주 강사
 
