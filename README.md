@@ -51,6 +51,9 @@ https://inf.run/gpwFf
 <img alt="afashs" width="32%" src="https://github.com/user-attachments/assets/0b14f86c-fe17-4a1c-8bfa-fdbe19895967" />
 </p>
 
+## n8n 등의 자동화 프로세스 툴과 에이전트 개발기능을 이용하여 슈퍼에이전트 (멀티 모델 agent 개발 경험)
+<img width="1056" height="460" alt="image" src="https://github.com/user-attachments/assets/db955c63-6cbc-4479-9dad-9896d2568ca0" />
+
 
 
 ## :open_file_folder: certificate
