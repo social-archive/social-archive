@@ -69,6 +69,9 @@ https://inf.run/gpwFf
 	<img src="https://github.com/afashs/afashs/assets/56165665/6576ad00-56a0-47c5-9a90-85baf11e8a37" alt="afashs" width="32%"/>&nbsp;
 	<img src="https://github.com/afashs/afashs/assets/56165665/9d22a0d0-548c-4c3d-b4d4-a7496bdc1813" alt="afashs" width="32%"/>&nbsp;
  	<img src="https://github.com/afashs/afashs/assets/56165665/5081ce37-2abc-4638-b315-f24d06fb3714" alt="afashs" width="32%"/>&nbsp;
+	<img src="https://github.com/user-attachments/assets/8c18b927-e48c-4522-a00b-be4eb3500d7a" alt="afashs" width="32%"/>&nbsp;
+
+	
 	
 </p>
 
